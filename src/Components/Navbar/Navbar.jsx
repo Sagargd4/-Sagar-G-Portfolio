@@ -32,10 +32,9 @@ function Navbar() {
 
     const menuLabel = [
         { id: "about", label: "About" },
-        { id: "skills", label: "Skills" },
-        { id: "experience", label: "Experience" },
-        { id: "project", label: "Projects" },
         { id: "education", label: "Education" },
+        { id: "skills", label: "Skills" },
+        { id: "project", label: "Projects" },
         { id: "contact", label: "Contact" },
     ];
     return (

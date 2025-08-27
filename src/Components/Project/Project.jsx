@@ -14,7 +14,7 @@ function Project() {
 
   return (
     <section
-      id="work"
+      id="project"
       className="py-24 pb-24 px-[12vw] md:px-[7vw] lg:px-[20vw] font-sans relative"
     >
       {/* Section Title */}
