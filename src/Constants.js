@@ -48,7 +48,7 @@ import Book from './assets/work_logo/Book.png';
 import House from './assets/work_logo/House.png';
 import Vehicle from './assets/work_logo/Vehicle.png';
 // import taskremLogo from './assets/work_logo/task_rem.png';
-// import npmLogo from './assets/work_logo/npm.png';
+import ghibli from './assets/work_logo/ghibli.png';
 // import webverLogo from './assets/work_logo/web_dig.png';
 // import cmLogo from './assets/work_logo/cm.png';
 // import imagesearchLogo from './assets/work_logo/image_search.png';
@@ -235,7 +235,7 @@ export const projects = [
     title: "GhibliArtGenerator",
     description:
       "AI-Powered Art Generator – A full-stack web application built with Spring Boot (backend) and React (frontend) that leverages Stable Diffusion XL to create and transform images from text prompts or uploaded pictures. It provides an intuitive UI for file upload, preview, and text input, delivering high-quality 1024×1024 AI artwork. The backend securely integrates with the Stability AI API for seamless text-to-image and image-to-image generation.",
-    image: npmLogo,
+    image: ghibli,
     tags: ["Java", "Spring Boot", "React JS", "Tailwind CSS", "Stability AI API"],
     // github: "https://github.com/codingmastr/cmtk-email-validator",
     // webapp: "https://www.npmjs.com/package/cmtk-email-validator",
