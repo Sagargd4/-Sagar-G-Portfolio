@@ -230,16 +230,16 @@ export const projects = [
     //     github: "https://github.com/codingmastr/Movie-Recommendation-App",
     //     webapp: "https://movie-recommendation-app-jet.vercel.app/",
   },
-  //   {
-  //     id: 3,
-  //     title: "Email Validator NPM Package",
-  //     description:
-  //       "An efficient and customizable NPM package for validating email addresses. Built using React.js and Node.js, it provides robust validation features to help developers ensure that email inputs meet required formats and standards.",
-  //     image: npmLogo,
-  //     tags: ["React JS", "Node.js", "NPM", "Validation"],
-  //     github: "https://github.com/codingmastr/cmtk-email-validator",
-  //     webapp: "https://www.npmjs.com/package/cmtk-email-validator",
-  //   },
+  {
+    id: 3,
+    title: "GhibliArtGenerator",
+    description:
+      "AI-Powered Art Generator – A full-stack web application built with Spring Boot (backend) and React (frontend) that leverages Stable Diffusion XL to create and transform images from text prompts or uploaded pictures. It provides an intuitive UI for file upload, preview, and text input, delivering high-quality 1024×1024 AI artwork. The backend securely integrates with the Stability AI API for seamless text-to-image and image-to-image generation.",
+    image: npmLogo,
+    tags: ["Java", "Spring Boot", "React JS", "Tailwind CSS", "Stability AI API"],
+    // github: "https://github.com/codingmastr/cmtk-email-validator",
+    // webapp: "https://www.npmjs.com/package/cmtk-email-validator",
+  },
   //   {
   //     id: 4,
   //     title: "Task Reminder Chrome Extension Tool",
